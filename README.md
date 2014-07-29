@@ -1,4 +1,4 @@
-misctool
+Backup
 ========
 
-编写的各种小工具软件。
+Backup some code snippets.
